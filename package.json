@@ -1,0 +1,14 @@
+{
+  "name": "backend_for_testing",
+  "version": "1.0.0",
+  "description": "This repository provides quick backend for prototyping to other projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Paras Agrawal",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
