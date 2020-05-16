@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "json-server -p 3200 -w db.json"
+    "start-shop-anywhere": "json-server -p 3200 -w shop-anywhere-db.json"
   },
   "author": "Paras Agrawal",
   "license": "ISC",
