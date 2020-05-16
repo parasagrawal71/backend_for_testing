@@ -4,7 +4,8 @@
   "description": "This repository provides quick backend for prototyping to other projects",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "json-server -p 3200 -w db.json"
   },
   "author": "Paras Agrawal",
   "license": "ISC",
