@@ -1,0 +1,116 @@
+{
+  "products": [
+    {
+      "id": 201,
+      "name": "Nulla",
+      "price": 207,
+      "subCategoryId": 101,
+      "categoryId": 1,
+      "rate": 2.44,
+      "content": "Culpa sed tenetur incidunt quia veniam sed mollitia exercitationem. Laboriosam reprehenderit laborum pariatur ea rem qui inventore. In asperiores dignissimos temporibus et. Beatae consequatur corrupti nam praesentium.",
+      "review": 78,
+      "typeVariant": "D",
+      "colorVariant": "5",
+      "imageUrl": "https://placeholdit.imgix.net/~text?txtsize=55&txt=137x945&w=137&h=945"
+    },
+    {
+      "id": 202,
+      "name": "Corporis",
+      "price": 271,
+      "subCategoryId": 101,
+      "categoryId": 1,
+      "rate": 2.18,
+      "content": "Nam incidunt blanditiis odio inventore. Nobis voluptatum quibusdam laboriosam a numquam. Delectus sequi ipsa possimus ratione repellendus quibusdam. Molestiae fuga laudantium natus dolorem.",
+      "review": 67,
+      "typeVariant": "A",
+      "colorVariant": "4",
+      "imageUrl": "https://dummyimage.com/931x785"
+    },
+    {
+      "id": 203,
+      "name": "Minus",
+      "price": 295,
+      "subCategoryId": 101,
+      "categoryId": 1,
+      "rate": 0.91,
+      "content": "Quod reiciendis aspernatur ipsum cum debitis. Quisquam tempore doloremque quo ipsum ipsa tempora. Dignissimos qui ex ad facilis. Quo sequi recusandae eveniet autem ducimus nam.",
+      "review": 116,
+      "typeVariant": "E",
+      "colorVariant": "2",
+      "imageUrl": "https://dummyimage.com/556x985"
+    },
+    {
+      "id": 204,
+      "name": "Qui",
+      "price": 280,
+      "subCategoryId": 101,
+      "categoryId": 1,
+      "rate": 3.11,
+      "content": "Occaecati dolore assumenda facilis error quaerat. Rem harum alias cum eum quam corporis. Esse numquam vero facilis labore.",
+      "review": 78,
+      "typeVariant": "D",
+      "colorVariant": "3",
+      "imageUrl": "https://dummyimage.com/855x573"
+    },
+    {
+      "id": 205,
+      "name": "Blanditiis",
+      "price": 138,
+      "subCategoryId": 101,
+      "categoryId": 1,
+      "rate": 2.42,
+      "content": "Reiciendis dolorum debitis occaecati assumenda totam ex. Ullam iure dolore excepturi unde in libero modi molestiae. Voluptate labore aliquid dignissimos omnis cum eligendi id. Sint repudiandae magni cum dolore itaque esse porro.",
+      "review": 156,
+      "typeVariant": "A",
+      "colorVariant": "2",
+      "imageUrl": "https://placeholdit.imgix.net/~text?txtsize=55&txt=79x934&w=79&h=934"
+    },
+    {
+      "id": 206,
+      "name": "Est",
+      "price": 296,
+      "subCategoryId": 101,
+      "categoryId": 1,
+      "rate": 4.32,
+      "content": "Aut consequatur fugit ut voluptates fugit numquam vero velit. Distinctio minima quo nesciunt maiores voluptatem dolorum. Doloribus quam nisi molestiae nostrum iure sint debitis.",
+      "review": 107,
+      "typeVariant": "E",
+      "colorVariant": "3",
+      "imageUrl": "https://dummyimage.com/135x733"
+    }
+  ],
+  "suggestions": [
+    {
+      "name": "name1",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "name": "b"
+    },
+    {
+      "id": 3,
+      "name": "c"
+    },
+    {
+      "id": 4,
+      "name": "d"
+    },
+    {
+      "id": 5,
+      "name": "e"
+    },
+    {
+      "name": "xyz",
+      "id": 6
+    },
+    {
+      "name": "abc",
+      "id": 8
+    },
+    {
+      "name": "abc",
+      "id": 10
+    }
+  ]
+}
